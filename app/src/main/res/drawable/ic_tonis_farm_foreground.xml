@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Foreground do ícone com padding interno de 18dp (safe zone padrão do Android) -->
+<!-- Isso garante que o conteúdo ocupe 72dp x 72dp (66.7% da área) dentro da safe zone -->
+<!-- A imagem será centralizada e dimensionada para caber dentro dessa área -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/capa_app_tonis_farm"
+    android:insetLeft="18dp"
+    android:insetTop="18dp"
+    android:insetRight="18dp"
+    android:insetBottom="18dp" />
